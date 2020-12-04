@@ -74,7 +74,7 @@ class Panel extends JFrame {
                 }
                 try (FileWriter out = new FileWriter(file, true)) {
                     if (e.getSource() == button1)
-                        text1.setText("+375298045007");
+                        text1.setText("+375298049009");
                     if (e.getSource() == button2)
                         text1.setText("+375339482099");
                     if (e.getSource() == button1)
